@@ -1,5 +1,7 @@
 body{
-    background-color: blue;
+    background-color: rgb(109, 109, 255);
     font-weight: bold; 
-    color: red;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px;
 }
